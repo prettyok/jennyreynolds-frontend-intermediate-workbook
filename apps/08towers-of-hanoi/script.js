@@ -1,3 +1,4 @@
+/*adding a comment*/
 'use strict';
 
 $(document).ready(function() {
